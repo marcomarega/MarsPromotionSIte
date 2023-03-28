@@ -7,3 +7,17 @@ form.login_form {
     border-radius: 5px;
     padding: 10px;
 }
+
+.infobox {
+    border: 1px solid #a2a9b1;
+    background: #f8f9fa;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    padding: 0.4em;
+    font-size: 90%;
+    width: 23em;
+    text-align: left;
+    line-height: 1.5em;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
